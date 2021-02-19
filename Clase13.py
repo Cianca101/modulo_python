@@ -19,3 +19,16 @@ suma(4,0) == 4
 
 from paquete import *
 suma(10,15) == 25
+
+###
+# Ambiente Virtual
+## Paquetes https://pypi.org/
+python3 -m venv "rutacompleta/nombre del ambiente virtual"
+source "rutacompleta/nombre del ambiente virtual/bin/activate"
+deactivate
+
+# sudo apt install python3-venv
+
+####
+# Instalar Pandas
+pip install pandas==0.25.3
