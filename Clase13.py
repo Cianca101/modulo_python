@@ -23,8 +23,8 @@ suma(10,15) == 25
 ###
 # Ambiente Virtual
 ## Paquetes https://pypi.org/
-python3 -m venv "rutacompleta/nombre del ambiente virtual"
-source "rutacompleta/nombre del ambiente virtual/bin/activate"
+python3 -m venv "nombre del ambiente virtual"
+source "rutacompleta"/bin/activate
 deactivate
 
 # sudo apt install python3-venv
